@@ -1,0 +1,18 @@
+{
+  "name": "iceFF-TB",
+  "version": "0.1.0",
+  "description": "Testbenches for the iceFF collection",
+  "keywords": "FF, flip-flop, basic Testbenches",
+  "license": "GPL-2.0",
+  "authors": [{
+    "name": "Juan Gonzalez-Gomez (Obijuan)",
+    "email": "",
+    "url": "https://github.com/Obijuan"
+  }],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "branch": "master",
+    "url": "https://github.com/FPGAwars/iceFF-TB"
+  }
+}
